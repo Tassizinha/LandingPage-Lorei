@@ -1,1 +1,102 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&display=swap')  
+$header-color: #6A016C
+$header-color2: #D2BDFF
+$main-color: #CAC9C5 //80%
+$span-color: #F54343
+
+
+//general settings
+*
+    background-color: $main-color
+    margin: 0
+    padding: 0
+    
+
+body
+    overflow: hidden   
+    
+    
+header
+    height: 80px
+    width: 100% 
+    background-color: $header-color  
+      
+
+.second-color
+    background-color: $header-color2
+    height: 35px
+    width: 100%
+
+span
+    color: $span-color
+
+.text-container
+    h1
+        text-align: center
+        margin-left: 38%
+        margin-top: 10%
+        width: 720px
+        font-size: 50px
+    p 
+        text-align: center
+        margin-left: 29%
+        padding: 15px
+
+footer
+    text-align: center
+    background-color: $header-color
+    color: white
+    padding: 10px
+
+
+
+.text-footer
+    p
+        height: 40px
+        text-align: center
+        background-color: $header-color
+
+//image settings
+.sub-text
+    img
+        margin: auto
+        width: 450px 
+        height: 350px
+        margin-top: -300px
+        background: fixed
+    p 
+        text-align: left
+        margin: 20px
+        margin-top: -50%
+        font-size: 20px
+        font-family: 'Arimo'
+        
+       
+            
+
+.sub-text
+    width: 40%
+        
+    
+.lorei-img
+    margin-top: -150px
+    width: 50%
+    position: relative
+    margin-left: 60px
+    background: fixed
+    img
+        width: 30%
+        height: 500px
+        background: fixed
+        animation: voar 3s infinite alternate
+        position: relative
+@keyframes voar
+    0%
+      top: -20px
+    100%
+       top: 100px 
+  
+        
+
+
