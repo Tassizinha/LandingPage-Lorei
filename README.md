@@ -1,5 +1,8 @@
-<<<<<<< HEAD
+
 # LandingPage
+#Image
+![image](https://github.com/user-attachments/assets/786e3ea3-ee3d-495b-ad4f-78059982a455)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.6.
 
@@ -29,4 +32,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # LandingPage-Lorei
 A simple screen designed by me to practice initial skills in my studies with Angular.
->>>>>>> 2c38ea5084f34020feb9320780d6f749a0cbf25d
+
