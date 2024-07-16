@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LandingPage
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.6.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# LandingPage-Lorei
+A simple screen designed by me to practice initial skills in my studies with Angular.
+>>>>>>> 2c38ea5084f34020feb9320780d6f749a0cbf25d
